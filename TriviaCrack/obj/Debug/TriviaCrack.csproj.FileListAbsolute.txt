@@ -1,0 +1,67 @@
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\TriviaCrack.exe.config
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\TriviaCrack.exe
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\TriviaCrack.pdb
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\EntityFramework.dll
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\EntityFramework.xml
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.csprojResolveAssemblyReference.cache
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\MainWindow.g.cs
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\App.g.cs
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack_MarkupCompile.cache
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack_MarkupCompile.lref
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\MainWindow.baml
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.g.resources
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.Properties.Resources.resources
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.csproj.GenerateResource.Cache
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.exe
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.pdb
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\Db.mdf
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\Db_log.ldf
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack_Content.g.cs
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\SoruEklemeEkranı.g.cs
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\obj\Debug\SoruEklemeEkranı.baml
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\Ogrenci Dosyalari\262\TriviaCrack\TriviaCrack\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\Db.mdf
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\Db_log.ldf
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\TriviaCrack.exe.config
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\TriviaCrack.exe
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\TriviaCrack.pdb
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\EntityFramework.dll
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\EntityFramework.xml
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\Programlama\TriviaCrack\TriviaCrack\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.csprojAssemblyReference.cache
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\MainWindow.g.cs
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\SoruEklemeEkranı.g.cs
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\App.g.cs
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack_Content.g.cs
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack_MarkupCompile.cache
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack_MarkupCompile.lref
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\MainWindow.baml
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\SoruEklemeEkranı.baml
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.g.resources
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.Properties.Resources.resources
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.csproj.GenerateResource.cache
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.csproj.CoreCompileInputs.cache
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.csproj.CopyComplete
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.exe
+D:\Programlama\TriviaCrack\TriviaCrack\obj\Debug\TriviaCrack.pdb
